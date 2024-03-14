@@ -1,0 +1,19 @@
+/* styles.css */
+
+/* Thumbnail styling */
+.thumbnail {
+    -fx-border-color: #ddd;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+}
+
+.thumbnail:hover {
+    -fx-border-color: #aaa;
+}
+
+/* Full image styling */
+#fullImageView {
+    -fx-border-color: #333;
+    -fx-border-width: 2px;
+    -fx-border-radius: 10px;
+}
